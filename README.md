@@ -5,3 +5,4 @@ alteração via github
 rique bonito
 
 git fetch
+git stach
